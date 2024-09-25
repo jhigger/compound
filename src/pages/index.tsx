@@ -329,6 +329,8 @@ const TopBar = () => {
 			sx={{
 				position: 'sticky',
 				top: 0,
+				left: 0,
+				right: 0,
 				zIndex: 10,
 				width: '100%',
 				height: TOPBAR_HEIGHT,
